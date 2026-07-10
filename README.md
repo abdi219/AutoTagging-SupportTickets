@@ -270,7 +270,7 @@ making it suitable for analytics dashboards, databases, and downstream ML pipeli
 
 ```text
 .
-├── Auto_Tagging_Support_Tickets.ipynb
+├── SupportTicket_TaggingPipeline.ipynb
 ├── tagged_support_tickets_evaluation.csv
 ├── README.md
 └── requirements.txt
@@ -305,4 +305,4 @@ making it suitable for analytics dashboards, databases, and downstream ML pipeli
 
 # Author
 
-Developed as part of the **AI/ML Engineering Internship at DeveloperHub**.
+Developed by me as part of the **AI/ML Engineering Internship at DeveloperHub**.
