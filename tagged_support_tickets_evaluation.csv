@@ -1,0 +1,8 @@
+ticket_id,Text,ZeroShot_Tags,FewShot_Tags
+101,"Hey, I was charged twice for my monthly subscription. Please refund the second transaction.","Billing, Technical Support, Performance","1. Billing, 2. Technical Support, 3. Account Security"
+102,My screen goes completely black whenever I try to open the desktop app. Please help.,"Technical Support, Account Security, Billing","1. Performance, 2. Technical Support, 3. Account Security"
+103,I forgot my password and the reset link email is not arriving in my inbox.,"Account Security, Technical Support, Billing","1. Account Security, 2. Technical Support, 3. Billing"
+104,"The application is lagging terribly when importing CSV files, it keeps freezing up my system.","Technical Support, Performance, Account Security","1. Performance, 2. Technical Support, 3. Billing"
+105,I need to update my billing card but the settings page keeps loading infinitely.,"Technical Support, Billing, Account Security","1. Technical Support, 2. Billing, 3. Account Security"
+106,Your system locked my account after 3 failed login attempts. Unban me ASAP.,"Performance, Technical Support, Account Security","1. Account Security, 2. Technical Support, 3. Performance"
+107,The application crashed my laptop completely when exporting the analytics data report.,"1. Application Issues, 2. System Crash, 3. Data Export","1. Technical Support, 2. Performance, 3. Billing"
